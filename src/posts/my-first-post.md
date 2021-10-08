@@ -2,14 +2,12 @@
 title: Driving Web Traffic
 description: There are many ways to drive traffic to your website.
 author: JDog
-date: 2020-09-01
+date: 2021-10-08T17:04:09.584Z
 tags:
   - left
   - center
   - right
 ---
-
-
 ![](https://spidermarket2.files.wordpress.com/2020/11/ahrefs-1.png)
 
 <!--StartFragment-->
@@ -58,22 +56,12 @@ There are 3 difficulty levels:
 * Below 60%: Low Difficulty\
   These keywords are the easiest to rank for but the hardest to find. Keywords with difficulty below 60% that also have steady search volume represent your best opportunities for ranking your pages with SEO.
 
-  <!--StartFragment-->
-
   **Opportunity Scores**\
   A quick word on “opportunity scores”, all 3 SEO tools have this. This information is to be considered when going after those possible rankings. Each respective tools have certain nuances but overall it is based on The authority score of the domain applied to the page authority level. The more authoritative domain (bigger (established)brand) can absolutely get the page to rank quickly. At the page level, if you have more links pointing to the page the better.
 
   ![](https://ahrefs.com/blog/wp-content/uploads/2019/05/05-page-authority-VS-domain-authority.jpg)
 
-  <!--EndFragment-->
-
-  <!--StartFragment-->
-
   Another good thing to know is that Ahrefs a while back conducted a correlation study and plotted page-level backlink factors next to domain-level backlink factors. The results: Page-level factors correlate much more strongly than domain-level factors.
-
-  <!--EndFragment-->
-
-  <!--StartFragment-->
 
   **Quora Questions**\
   Did you know that Quora is like another search engine, but with questions as the query. So the idea is to ask Quora about a subject and see what the results are. Then, plug in your answer to it, in other words you would go to the question thread and provide an answer. Quora being a heavy weight site, there is a chance that the question/answer may be ranked for decent search volume in the SERP.\
@@ -84,8 +72,6 @@ There are 3 difficulty levels:
   ![](https://spidermarket2.files.wordpress.com/2021/06/quora.png)
 
   ![](https://spidermarket2.files.wordpress.com/2021/06/ppistol.png)
-
-  <!--EndFragment-->
 
 <!--StartFragment-->
 
@@ -103,6 +89,7 @@ For example, say you’re a frontend web developer and you want to share a cool 
 
 So yeh, basically what I’m talking about is that if you were looking at a web page on a desktop on your PC or Mac. The display shows all the boxes with rows and columns. But when you look at the page on a mobile device like your phone. Everything is stacked on top of each other. Which is what we mean by responsive.\
 \
+
 1. Ok, lets get back to the meat of this – to share this awesome code you would want to go on a site call “CodePen”.
 
 ![](https://cpwebassets.codepen.io/assets/packs/editor-embed-eae2ee445ef0f63ee8fc7f175858e9d9.png)
@@ -113,8 +100,9 @@ So yeh, basically what I’m talking about is that if you were looking at a web 
 
 This site allows you to put codes up and you can see the result of the codes all on the same screen. Not only is this an amazing site for web developers but many many devs hang out here to share or work on their apps. The idea is to implement your content(codes) and crossing your fingers other devs will mingle with you.\
 \
+
 2. Another approach, say if you didn’t have any cool codes to share but just admire other devs work. You can still interact with them about that xyz project. As time goes by you can talk about your stuff.\
-\
+   \
 3. Youtube/Rumble and Social Media Platform
 
 <!--EndFragment-->
