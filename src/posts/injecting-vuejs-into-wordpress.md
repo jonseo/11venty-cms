@@ -24,6 +24,8 @@ Underneath the get_header(); ?> is where you put the Vue codes say for this typi
 
 Here's the <script> for Vue
 
+![VueJS Script](/static/img/vue-static-list.png "VueJS Script")
+
 Next create another custom php file, very similar to the previous. However, this one is like another homepage or maybe a custom category page.  This is like a component, in Wordpress php they call it "get_template_part('vue1.php)".
 
 To get this to display in Wordpress, you would go to the page editor in the wp-admin. (after logging in) On the right side under "page" section choose the newly template.
