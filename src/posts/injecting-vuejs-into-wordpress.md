@@ -18,7 +18,9 @@ Next create a custom php file, in this case its called "**any-name-u-want.php**"
 
 ![custom php](/static/img/topcustomphp.png "Custom PHP")
 
-Underneath the get_header(); ?> is where you put the Vue codes say for this typical search of images. This is just searching a short dedicated list not from a remote api.  Keeping this simple. Abive the html is the style which I left out then follows what you see next. (below)
+Underneath the get_header(); ?> is where you put the Vue codes say for this typical search of images. This is just searching a short dedicated list not from a remote api.  Keeping this simple. Above the html is the style which I left out then follows what you see next. (below)
+
+![VueJS HTML](/static/img/vue-search.png "VueJS HTML")
 
 Here's the <script> for Vue
 
