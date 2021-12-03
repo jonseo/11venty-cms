@@ -38,4 +38,4 @@ Here's what it would look like from the frontend.
 
 ![vuejs search example](/static/img/vuejs-search.gif "Vuejs Search example")
 
-Obviously, this scenario works on the type of project and the complexity.  This is a quick example to sprinkle in VueJS without having to do a separate whole build if you were working on a React app.
+Obviously, this scenario works on the type of project and the complexity.  This is a quick example to sprinkle in VueJS without having to do a separate whole build if you were working on a Reacts app.
