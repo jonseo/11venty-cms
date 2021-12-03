@@ -28,6 +28,8 @@ Here's the <script> for Vue
 
 Next create another custom php file, very similar to the previous. However, this one is like another homepage or maybe a custom category page.  This is like a component, in Wordpress php they call it "get_template_part('vue1.php)".
 
+![Get VueJS Component](/static/img/insert-vue.png "Get VueJS Component")
+
 To get this to display in Wordpress, you would go to the page editor in the wp-admin. (after logging in) On the right side under "page" section choose the newly template.
 
 Here's what it would look like from the frontend.
