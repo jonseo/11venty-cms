@@ -10,11 +10,13 @@ Here are some quick snap shots of codes that you would need to insert into a Wor
 
 The process is pretty straight forward after you've done this a few times.
 
-First off you need to insert the script into the Functions.php.
+First off you need to insert the script into the **Functions.php**.
 
 ![vue in functionphp](/static/img/vue-inject.png "VueJS in Functions.php")
 
-Next create a custom php file, in this case its called "any-name-u-want.php" (you can name it any way you like). Follow the Wordpress guidelines on this.
+Next create a custom php file, in this case its called "**any-name-u-want.php**" (you can name it any way you like). Follow the Wordpress guidelines on this.
+
+![custom php](/static/img/topcustomphp.png "Custom PHP")
 
 Underneath the get_header(); ?> is where you put the Vue codes say for this typical search of images. This is just searching a short dedicated list not from a remote api.  Keeping this simple. Abive the html is the style which I left out then follows what you see next. (below)
 
