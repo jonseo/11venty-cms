@@ -22,7 +22,7 @@ Underneath the get_header(); ?> is where you put the Vue codes say for this typi
 
 ![VueJS HTML](/static/img/vue-search.png "VueJS HTML")
 
-Here's the <script> for Vue.
+Here's the script for Vue.
 
 ![VueJS Script](/static/img/vue-static-list.png "VueJS Script")
 
