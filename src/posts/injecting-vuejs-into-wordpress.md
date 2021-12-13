@@ -12,7 +12,7 @@ The process is pretty straight forward after you've done this a few times.
 
 First off you need to insert the script into the **Functions.php**.
 
-![vue in functionphp](/static/img/vue-inject.png "VueJS in Functions.php")
+![vue in functionphp](/src/static/img/vue-inject.png "VueJS in Functions.php")
 
 Next create a custom php file, in this case its called "**any-name-u-want.php**" (you can name it any way you like). Follow the Wordpress guidelines on this.
 
@@ -20,7 +20,7 @@ Next create a custom php file, in this case its called "**any-name-u-want.php**"
 
 Underneath the get_header(); ?> is where you put the Vue codes say for this typical search of images. This is just searching a short dedicated list not from a remote api.  Keeping this simple. Above the html is the style which I left out then follows what you see next. (below)
 
-![VueJS HTML](/static/img/vue-search.png "VueJS HTML")
+![VueJS HTML](/src/static/img/vue-search.png "VueJS HTML")
 
 Here's the script for VueJS.
 
