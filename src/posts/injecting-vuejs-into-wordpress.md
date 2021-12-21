@@ -28,7 +28,7 @@ Here's the script for VueJS.
 
 Next create another custom php file, very similar to the previous. However, this one is like another homepage or maybe a custom category page.  This is like a component, in Wordpress php they call it "get_template_part('vue1.php)".
 
-![Get VueJS Component](/src/static/img/insert-vue.png "Get VueJS Component")
+![Get VueJS Component](/static/img/choose-template.png "Get VueJS Component")
 
 To get this to display in Wordpress, you would go to the page editor in the wp-admin. (after logging in) On the right side under "page" section choose the newly template.
 
@@ -36,6 +36,6 @@ To get this to display in Wordpress, you would go to the page editor in the wp-a
 
 Here's what it would look like from the frontend.
 
-![vuejs search example](/src/static/img/vuejs-search.gif "Vuejs Search example")
+![vuejs search example](/static/img/vuejs-search.gif "Vuejs Search example")
 
 Obviously, this scenario works on the type of project and the complexity.  This is a quick example to sprinkle in VueJS without having to do a separate whole build if you were working on a Reacts app.
